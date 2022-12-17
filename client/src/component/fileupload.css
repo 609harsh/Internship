@@ -1,0 +1,16 @@
+.form-group{
+  border: solid 1px;
+  margin-top: 5rem;
+  height:20rem;
+}
+.files input{
+  text-align: center;
+  padding:2rem 2rem 2rem 2rem;
+}
+
+.success{
+  color:'green';
+}
+.success{
+  color:'red';
+}
